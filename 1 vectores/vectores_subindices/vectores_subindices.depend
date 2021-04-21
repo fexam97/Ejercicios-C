@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618621766 source:c:\users\sombr\desktop\progra\vectores\vectores_subindices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1618621400 source:c:\users\sombr\desktop\progra\vectores\vectores_subindices\funciones.c
+	"funciones.h"
+
+1618621766 c:\users\sombr\desktop\progra\vectores\vectores_subindices\funciones.h
+

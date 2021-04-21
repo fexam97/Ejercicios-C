@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1619016988 source:c:\users\sombr\desktop\progra\1 vectores\eliminar_elemento_por_posicion\funciones.c
+	"funciones.h"
+
+1619016988 c:\users\sombr\desktop\progra\1 vectores\eliminar_elemento_por_posicion\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1619016988 source:c:\users\sombr\desktop\progra\1 vectores\eliminar_elemento_por_posicion\main.c
+	"funciones.h"
+

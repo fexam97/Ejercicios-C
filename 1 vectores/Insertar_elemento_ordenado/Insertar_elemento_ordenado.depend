@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1618872947 source:c:\users\sombr\desktop\progra\1 vectores\insertar_elemento_ordenado\main.c
+	"funciones.h"
+
+1618872922 source:c:\users\sombr\desktop\progra\1 vectores\insertar_elemento_ordenado\funciones.c
+	"funciones.h"
+
+1618870437 c:\users\sombr\desktop\progra\1 vectores\insertar_elemento_ordenado\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
