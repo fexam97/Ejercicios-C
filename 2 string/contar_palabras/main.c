@@ -65,9 +65,8 @@ int cantidadPalabras(char* fra)
     {
         cActual = *fra;
 
-        //printf("Caracter: %c\n", cActual);
-
         cantPalabra++;
+        
         fra++;
     }
     return cantPalabra;
