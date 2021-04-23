@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1618758805 source:c:\users\casa\desktop\progra\copiar_cadenas_sin_strcpy\main.c
+	"main.h"
+
+1618758671 c:\users\casa\desktop\progra\copiar_cadenas_sin_strcpy\main.h
+	<stdio.h>
+	<stdlib.h>
+	"cadenas.h"
+
+1618759513 source:c:\users\casa\desktop\progra\copiar_cadenas_sin_strcpy\cadenas.c
+	"cadenas.h"
+
+1618758755 c:\users\casa\desktop\progra\copiar_cadenas_sin_strcpy\cadenas.h
+
+1618773432 source:c:\users\sombr\desktop\progra\tutorial\copiar_cadenas_sin_strcpy\main.c
+	"main.h"
+
+1618758671 c:\users\sombr\desktop\progra\tutorial\copiar_cadenas_sin_strcpy\main.h
+	<stdio.h>
+	<stdlib.h>
+	"cadenas.h"
+
+1618758755 c:\users\sombr\desktop\progra\tutorial\copiar_cadenas_sin_strcpy\cadenas.h
+
+1618773389 source:c:\users\sombr\desktop\progra\tutorial\copiar_cadenas_sin_strcpy\cadenas.c
+	"cadenas.h"
+
+1618773459 source:c:\users\sombr\desktop\progra\0 string cadenas de caracteres\copiar_cadenas_sin_strcpy\cadenas.c
+	"cadenas.h"
+
+1618758755 c:\users\sombr\desktop\progra\0 string cadenas de caracteres\copiar_cadenas_sin_strcpy\cadenas.h
+
+1618773432 source:c:\users\sombr\desktop\progra\0 string cadenas de caracteres\copiar_cadenas_sin_strcpy\main.c
+	"main.h"
+
+1618758671 c:\users\sombr\desktop\progra\0 string cadenas de caracteres\copiar_cadenas_sin_strcpy\main.h
+	<stdio.h>
+	<stdlib.h>
+	"cadenas.h"
+
