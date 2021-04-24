@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1619228875 source:c:\users\sombr\desktop\progra\103 cadenas array\generar_cadena\main.c
+	"cadenas.h"
+
+1619228608 c:\users\sombr\desktop\progra\103 cadenas array\generar_cadena\cadenas.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1619228575 source:c:\users\sombr\desktop\progra\103 cadenas array\generar_cadena\cadenas.c
+	"cadenas.h"
+
