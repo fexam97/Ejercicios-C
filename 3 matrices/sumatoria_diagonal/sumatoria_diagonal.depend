@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619493979 source:c:\users\sombr\desktop\progra\2 matrices\sumatoria_diagonal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
