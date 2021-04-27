@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619492465 source:c:\users\sombr\desktop\progra\2 matrices\mostrar_diagonal\main.c
+	"funciones.h"
+
+1619492465 source:c:\users\sombr\desktop\progra\2 matrices\mostrar_diagonal\funciones.c
+	"funciones.h"
+
+1619492482 c:\users\sombr\desktop\progra\2 matrices\mostrar_diagonal\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
