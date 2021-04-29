@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619669091 source:c:\users\sombr\desktop\progra\103 cadenas array\ceros_fuera_de_la_diagonal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
