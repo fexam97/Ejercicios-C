@@ -5,15 +5,20 @@
 #define COL 4
 
 void mostrarMatrizIdentidad(int mat[][COL], int fil, int col);
+int esMatrizIdentidad(int mat[][COL], int fil, int col);
 
 
-/// creo que tenia que hacer una funcion que muestre en pantalla : " la matriz es de identidad "
+
 
 int main()
 {
     int mat[FIL][COL];
 
     mostrarMatrizIdentidad(mat, FIL, COL);
+
+    int dato = esMatrizIdentidad(mat, FIL, COL);
+
+    dato? printf("\n Es de identidad") : printf("\n No es de identidad");
 
     return 0;
 }
@@ -32,4 +37,18 @@ void mostrarMatrizIdentidad(int mat[][COL], int fil, int col)
         printf("\n");
     }
 
+}
+
+int esMatrizIdentidad(int mat[][COL], int fil, int col)
+{
+    for(int i = 0; i < fil ; i++)
+    {
+        for(int j = 0; j < col ; j++)
+        {
+            if( i==j || mat[i][j]==0 )  // hasta llegue pero no va a compilar
+                return 0;
+        }
+    }
+
+    return 1;
 }
