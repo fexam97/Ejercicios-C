@@ -46,7 +46,7 @@ bool esMatrizIdentidad(int mat[][COL], int fil, int col)
     {
         for(int j = 0; j < col ; j++)
         {
-            if( i==j || mat[i][j]==0 )  // hasta llegue pero no va a compilar
+            if( i==j || mat[i][j]==0 )  // hasta acá llegue 
                 return 0;
         }
     }
