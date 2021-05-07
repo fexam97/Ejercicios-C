@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1620355087 source:c:\users\sombr\desktop\progra\3 archivos\menu_opciones\main.c
+	"funciones.h"
+
+1620355116 c:\users\sombr\desktop\progra\3 archivos\menu_opciones\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1620354805 source:c:\users\sombr\desktop\progra\3 archivos\menu_opciones\funciones.c
+	"funciones.h"
+
