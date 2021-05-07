@@ -16,7 +16,7 @@ Alumno;
 int main()
 {
 /*
-        /// PRIMERO EJECUTA ESTO, DESPUES EJECUTÁ EL FOPEN SINO NO TE VA A COMPILAR
+        /// PRIMERO EJECUTA el fwrite , DESPUES EJECUTÃ EL Fread SINO NO TE VA A COMPILAR
 
     FILE* archAlu = fopen("Alumnos.dat", "wb"); /// insert/refactor -> rename symbols
                                                 /// y de ahi se cambia el nombre de las variables
