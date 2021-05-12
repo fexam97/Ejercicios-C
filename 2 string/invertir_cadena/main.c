@@ -32,7 +32,7 @@ char* invertir_cadena(char* s)
     char* fin = pos_fin(s);
     while(s<fin)
     {
-        intercambio_char(s, fin);
+        intercambio_char(s, fin); // asi es, no retorna nada
         s++;
         fin--;
     }
